@@ -1,0 +1,4 @@
+homebrew-alt
+============
+
+Homebrew Alternative
